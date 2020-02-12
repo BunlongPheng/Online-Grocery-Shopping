@@ -1,0 +1,102 @@
+body {
+    font-family: Verdana, sans-serif;
+}
+
+table a {
+    text-decoration: none;
+    background: inherit;
+    color: #ccf;
+    font-weight: bold;
+}
+
+table a:link {
+    text-decoration: none;
+}
+
+table a:visited {
+    background: inherit;
+    color: #66c;
+    text-decoration: line-through;
+}
+
+table a:hover {
+    background: inherit;
+    color: #eef;
+    position: relative;
+    top: 1px;
+    left: 1px;
+    text-decoration: none;
+}
+
+table caption {
+    border-top: 1px solid #ddf;
+    border-left: 1px solid #ddf;
+    border-right: 1px solid #669;
+    border-bottom: 1px solid #669;
+    text-align: left;
+    padding: 3px;
+    color: #ccf;
+    background: #99f;
+    font-family: Verdana;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+tr.odd {
+    color: inherit
+    background: #88e;
+}
+
+.highlight {
+    background-color: #97D5F9;
+    border-bottom: 2px solid black;
+}
+
+.subtotal-text {
+    border-top: 2px solid;
+    font-size: 18px;
+}
+
+.table {
+    width: 90%;
+    border: 0px;
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin: auto auto 5% auto;
+}
+
+.submit-button {
+    height: 40px;
+    width: 100px;
+    color: white;
+    background-color: orange;
+    border-radius: 9px;
+    font-size: 15px;
+    font-weight: bold;
+    position: absolute;
+    right:5%;
+}
+
+.clear-button {
+    height: 40px;
+    width: 80px;
+    color: white;
+    background-color: #00BFFF;
+    border-radius: 9px;
+    font-size: 15px;
+    position: absolute;
+    right:21%;
+}
+.addToCart-button {
+    height: 40px;
+    width: 100px;
+    color: white;
+    background-color: #87CEFA;
+    border-radius: 9px;
+    font-size: 15px;
+    font-weight: bold;
+    position: absolute;
+    right: 5%;
+    
+}
+

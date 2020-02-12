@@ -1,0 +1,13 @@
+div.confirmation{
+ text-align: center;
+}
+body {
+    font-family: Verdana, arial, helvetica, sans-serif;
+}
+table.deliveryDetail{
+    text-decoration: none;
+    background: inherit;
+    
+    font-weight: bold;
+    margin-left: 30%;
+}

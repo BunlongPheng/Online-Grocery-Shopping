@@ -1,0 +1,56 @@
+        *{
+            margin: 0px 0px;
+            padding:0px 0px;
+        }
+        img {
+            max-width:100%;
+            height:auto;
+            
+        a {
+            border-radius: 10px;
+        }
+        }
+        #bg{
+            position: absolute;
+            top: 270px;
+            z-index: 11;
+        }
+        #frozenfood {
+            position: absolute;
+            /*left: -29px;*/
+            top: 270px;
+            z-index: 11;
+            visibility: hidden;
+        }
+        #freshfood {
+            position: absolute;
+            /*left: -6px;*/
+            top: 270px;
+            z-index: 11;
+            visibility: hidden;
+        }
+        #beverages {
+            position: absolute;
+            left: 0px;
+            top: 270px;
+            z-index: 11;
+            visibility: hidden;
+        }
+        #homehealth {
+            position: absolute;
+            left: 0px;
+            top: 270px;
+            z-index: 11;
+            visibility: hidden;
+        }
+        #petfood {
+            position: absolute;
+            left: 0px;
+            top: 270px;
+            z-index: 11;
+            visibility: hidden;
+        }
+        html
+         {
+              overflow-y:hidden;
+        }
